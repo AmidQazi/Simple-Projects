@@ -1,0 +1,8 @@
+print("Welcome to the Password Generator!")
+city = input("What is the name of the City you grew up in?")
+fruit = input("What is the name of your favorite fruit?")
+year = input("What year was your mother born in?")
+print('Your new password is:')
+print(city, end='')
+print(fruit, end='')
+print(year, end='')
