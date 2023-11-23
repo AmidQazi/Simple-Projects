@@ -176,7 +176,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
         
     elif dec_1 == 'left':
         print("As you are walking down the path, a group of bandits jump out of the bushes with swords!")
-        print("They steal your money and brutally slash you up...")
+        print("They steal your doubloons and brutally slash you up...")
         print('''
 ┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
 ███▀▀▀██┼███▀▀▀███┼███▀█▄█▀███┼██▀▀▀
